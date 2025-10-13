@@ -1,142 +1,92 @@
+<h1 align="right">👋 Hi, I'm <span style="color:#b76e79;">N Sowmya</span></h1>
 
+<p align="right">
+  <b>Full Stack Developer | Java • React • SQL</b><br>
+  <a href="mailto:sowmya511n@gmail.com">📧 sowmya511n@gmail.com</a> |
+  <a href="tel:+919886768045">📱 9886768045</a>
+</p>
 
-<!--
-**sowmyaN03/sowmyaN03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+I'm a **Computer Science Graduate** passionate about building scalable and interactive web applications.  
+I specialize in **Java-based Full Stack Development** — combining solid backend logic with sleek, responsive frontends.  
+Currently, I’m enhancing my skills in **Spring Boot, React, and Advanced DSA**, and love solving real-world problems with clean, maintainable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋, I'm N Sowmya
+- 💻 Hands-on experience in **Core Java, React, SQL, HTML, CSS, and JavaScript**  
+- 🎓 **B.E. in Computer Science & Engineering** – MVJ College of Engineering (CGPA 8.16)  
+- 🎯 Completed **Full Stack Development program** at KodNest  
+- 📊 Internship at **Rooman Technologies (AI-ML OJT, NSQF Level 5 certified)** — built social media analytics project (IBM initiative)
 
-![Banner](https://via.placeholder.com/1200x300/0f172a/ffffff?text=Full+Stack+Developer+%7C+Java+%26+React+Enthusiast)
+---
 
-A passionate **Full Stack Developer** (Java-focused) with hands-on experience through internships, government-aligned OJT, and full-stack development training. Proficient in Core Java, SQL (MySQL, Oracle), and frontend technologies (React, Redux, HTML, CSS, JavaScript). Experienced in building scalable web and mobile applications integrating secure backends with responsive frontends. Seeking to apply expertise in Core Java, React, SQL, and frontend technologies within an Agile environment to build scalable enterprise applications.
+### 🧠 Tech Stack
+#### 💻 Programming
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-## 🛠️ Technical Skills
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Programming
-- **Java** (Core & Advanced, Spring Boot REST APIs)
-- **Python**
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
-### Frontend
-- **HTML**, **CSS**, **JavaScript**
-- **React**, **Redux**
+#### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Database
-- **MySQL**, **Oracle**
+---
 
-### Tools & Others
-- **Git**, **GitHub**
-- **Data Structures & Algorithms**
-- **AI/ML Basics**, **Cloud Fundamentals**
-
-## 📚 Education
-
-- **B.E. in Computer Science and Engineering**  
-  MVJ College of Engineering, Bangalore, India  
-  **CGPA: 8.16/10**  
-  *2021 – 2025 (Graduated)*
-
-## 🎓 Courses
-
-- **Full-Stack Development** – KodNest (Completed)  
-  Covers Core & Advanced Java, Spring Boot (REST APIs), Frontend Fundamentals (HTML, CSS, JavaScript), React, Redux, MySQL, Oracle DB, Git/GitHub.
-
-## 💼 Internships & Experience
-
-- **AI-ML Intern & On-the-Job Training (OJT)** – Rooman Technologies (facilitated by VTU)  
-  *11/2024 – 04/2025*  
-  - Earned NSQF Level 5 OJT Certification as an AI–Machine Learning Engineer.  
-  - Built a real-time social media analytics pipeline (IBM project) for large-scale data ingestion and analysis.  
-  - Acquired Wadhwani Life Skills (93 hrs) to strengthen teamwork, communication, and coding discipline.
-
-- **Cybersecurity Intern** – Threat Prism (1stop)  
-  *10/2024 – 11/2024*  
-  - Performed vulnerability scans and created secure coding checklists, reducing code review time by 20%.
-
-- **System & Software Installation and SaaS Implementation Intern** – Skyrocket Beverages Pvt. Ltd.  
-  *11/2023 – 12/2023*  
-  - Supported SaaS product setup and deployment, ensuring 100% successful system integration.
-
-- **AI Trainee and Intern** – Plasmid Innovation  
-  *10/2023 – 11/2023*  
-  - Built a spam detection proof-of-concept using Python pipelines, improving detection precision by 12%.
-
-## 🚀 Projects
-
-- **Cloud Security Vulnerability Assessment Tool**  
-  Automated vulnerability scanning system and generated compliance reports that reduced manual security checks by 50%.  
-  *[View on GitHub](https://github.com/sowmyaN03)*
-
+### 🧩 Featured Projects
 - **Real-Time Social Media Analytics Pipeline (IBM Project)**  
-  Built a robust real-time data processing framework to collect, analyze, and visualize social media streams, enabling high-throughput analytics and actionable insights.  
-  *[View on GitHub](https://github.com/sowmyaN03)*
+  → Built a robust data processing framework for analyzing social media streams in real time.  
 
-- **[Food Recipe Application](https://github.com/sowmyaN03/food-recipe-application)**  
-  Developed a responsive recipe planner using React with an SQL backend, improving search efficiency by 40%.
+- **Food Recipe Application**  
+  → Responsive planner using React & SQL backend — improved search efficiency by 40%.  
 
-- **[Blood Source Website](https://github.com/sowmyaN03/Blood-Source-Management-System)**  
-  Architected a platform for blood donation management, enabling donors and recipients to connect seamlessly using HTML, CSS, PHP.
+- **Blood Source Website**  
+  → A donation management portal built with HTML, CSS, and PHP.  
 
-- **Image Steganography**  
-  Created a text-to-image encryption app with a translation feature, ensuring 100% text recovery accuracy.  
-  *[View on GitHub](https://github.com/sowmyaN03)*
+- **Cloud Security Vulnerability Tool**  
+  → Automated compliance scanning system reducing manual work by 50%.  
 
-### Additional GitHub Projects (Security & Automation Focus)
-- **[Information Gathering Tool](https://github.com/sowmyaN03/Information-gathering-tool)** – Python-based tool for reconnaissance.
-- **[Recon Automation and Web Pentesting](https://github.com/sowmyaN03/Recon-Automation-and-Web-Pentesting)** – Automated reconnaissance and pentesting scripts in Python.
-- **[Network and Port Scanner](https://github.com/sowmyaN03/Network-and-Port-scanner)** – Python tool for network scanning and port detection.
-- **[Python Jupyter Template](https://github.com/sowmyaN03/python-jupyter-template)** – Forked template for Python data science notebooks.
+---
 
-## 📖 Certifications
+### 🏆 Certifications
+- **NSQF Level 5 – AI: Machine Learning Engineer** (Rooman Technologies / VTU)  
+- **Java Certification – IIT Bombay (Spoken Tutorial)**  
+- **Practical HTML & CSS – Infosys Springboard**  
+- **AWS Academy Cloud Foundations**  
+- **Career Essentials in Generative AI – Microsoft x LinkedIn**  
+- [View All Certificates →](https://www.linkedin.com/in/n-sowmya-2a1792244/details/certifications/)
 
-| Certification | Issuer | Details |
-|---------------|--------|---------|
-| **NSQF Level 5 – AI: Machine Learning Engineer (OJT)** | Rooman Technologies / VTU (Government-aligned) | On-the-Job Training |
-| **Java** | Spoken Tutorial Project, IIT Bombay | Core Java Fundamentals |
-| **AWS Academy Graduate – AWS Academy Cloud Foundations** | AWS Academy | Cloud Fundamentals |
-| **Career Essentials in Generative AI** | Microsoft and LinkedIn | AI Skills |
-| **Practical HTML and CSS** | Infosys Springboard | Frontend Basics |
-| **Life Skills (Jeevan Kaushal 2.0)** | Wadhwani Foundation | 93 hours – Teamwork & Communication |
-| **Advanced Software Engineering Job Simulation** | Forage | Practical Engineering |
-| **SQL and Relational Databases (Course 101DB0101EN)** | IBM Developer Skills Network | Issued by Cognitive Class |
-| **JavaScript Essentials 1** | Cisco Networking Academy | JS Fundamentals |
-| **Mastering Advanced ChatGPT Prompt Engineering** | Udemy | AI Prompting |
+---
 
-## 📊 GitHub Stats
+### 📄 Resume
+🎯 [**Download My Resume (PDF)**](https://github.com/sowmyaN03/sowmyaN03/raw/main/N-Sowmya-Resume.pdf)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sowmyaN03&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmyaN03&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+---
 
-## 📄 Resume
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="mailto:sowmya511n@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/n-sowmya-2a1792244/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sowmyaN03"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-<a href="./N-Sowmya-Resume.pdf" download="N-Sowmya-Resume.pdf">
-  <img src="https://img.shields.io/badge/Download_Resume-PDF-green?style=for-the-badge&logo=adobe-acrobat-reader" alt="Download Resume">
-</a>
+---
 
-## 🔗 Connect with Me
+### ⚡ Fun Facts
+- 💬 I love building UI components that make users go “wow!”  
+- 🌱 I’m exploring **Spring Boot & Advanced DSA**  
+- 🎨 Outside of coding, I enjoy designing and editing content  
+- 🧩 Motto: *“Write clean code, build smart solutions.”*  
 
-<div align="center">
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-sowmya-2a1792244/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sowmyaN03)  
-[![Email](https://img.shields.io/badge/Email-sowmya511n@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sowmya511n@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-9886768045-green?style=for-the-badge&logo=phone&logoColor=white)](tel:+919886768045)
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc?sowmyaN03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-*Thanks for visiting! Let's connect and build something amazing together. 🚀*
+⭐️ *Thanks for visiting! Feel free to fork, star, or connect with me — let’s build something amazing together!* 🚀
