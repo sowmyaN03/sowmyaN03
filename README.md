@@ -66,12 +66,21 @@ Currently, I’m deepening my knowledge in **Spring Boot and DSA**, while consta
 - **Practical HTML5 & CSS3 – Infosys Springboard**  
 - **AWS Academy Cloud Foundations**  
 - **Career Essentials in Generative AI – Microsoft x LinkedIn**  
+- **Data Science Foundations – IBM Cognitive Class**  
+- **Data Science & Analytics Certificate – HP LIFE Program**  
+- **Power BI Projects Certification – Great Learning**  
+- **Data Analysis Course Certificate – Infosys Springboard**  
 - [📜 View All Certificates →](https://www.linkedin.com/in/n-sowmya-2a1792244/details/certifications/)
 
 ---
 
-### 📄 Resume
-🎯 [**Download My Resume (PDF)**](https://github.com/sowmyaN03/sowmyaN03/raw/main/N-Sowmya-Resume.pdf)
+### 📄 Resumes
+
+#### 🔹 Developer Resume  
+[**Download Developer Resume (PDF)**](https://github.com/sowmyaN03/sowmyaN03/raw/main/N-Sowmya-Resume.pdf)
+
+#### 🔹 Data Analyst Resume  
+[**Download Data Analyst Resume (PDF)**](https://github.com/sowmyaN03/sowmyaN03/raw/main/N-Sowmya-DA.pdf)
 
 ---
 
